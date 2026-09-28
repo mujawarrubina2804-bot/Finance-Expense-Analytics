@@ -28,6 +28,7 @@ This project focuses on analyzing company expenses and monitoring budget perform
 * Highest vendor-wise expense: Tata Power
 
 ## Dashboard
+![Power BI Dashboard](dashboard.png)
 
 The interactive Power BI dashboard includes KPI cards, charts, and slicers to explore expense data.
 
